@@ -1,5 +1,12 @@
 .idea/
+build/
 __pycache__/
+*.pyc
+
 *.html
 *.json
 *.jl
+
+project.egg-info/
+setup.py
+*.egg
