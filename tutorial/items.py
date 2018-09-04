@@ -5,3 +5,6 @@ class QuoteItem(Item):
     text = Field()
     author = Field()
     tag = Field()
+
+
+#class BookItem(Item):
